@@ -6,7 +6,7 @@ int main()
 
 	// 2 3 7 8 9 24 57 22
 
-	int min = a[0];
+	int min = a[9];
 
 	for(int i=1; i<n; i++)	
 	
